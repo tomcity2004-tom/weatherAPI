@@ -1,2 +1,3 @@
-# weatherAPI
-Weather API
+weather-card-streamlit/
+├── app.py
+└── requirements.txt
