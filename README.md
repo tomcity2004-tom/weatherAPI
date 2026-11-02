@@ -1,3 +1,3 @@
-#weather-card-streamlit/
-#├── app.py
-#└── requirements.txt
+# weather-card-streamlit/
+ ├── app.py
+ └── requirements.txt
